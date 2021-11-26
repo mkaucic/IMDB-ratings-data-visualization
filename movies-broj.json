@@ -1,0 +1,52 @@
+[
+    {
+        "ocjena": 1,
+        "broj_filmova": 1,
+        "imdb_rating": 3.9
+     },
+     {
+        "ocjena": 2,
+        "broj_filmova": 3,
+        "imdb_rating": 5.2
+     },
+     {
+        "ocjena": 3,
+        "broj_filmova": 0,
+        "imdb_rating": 2
+     },
+     {
+        "ocjena": 4,
+        "broj_filmova": 0,
+        "imdb_rating": 2
+     },
+     {
+        "ocjena": 5,
+        "broj_filmova": 7,
+        "imdb_rating": 6.3
+     },
+     {
+        "ocjena": 6,
+        "broj_filmova": 33,
+        "imdb_rating": 6.8
+     },
+     {
+        "ocjena": 7,
+        "broj_filmova": 115,
+        "imdb_rating": 7.2
+     },
+     {
+        "ocjena": 8,
+        "broj_filmova": 96,
+        "imdb_rating": 7.8
+     },
+     {
+        "ocjena": 9,
+        "broj_filmova": 67,
+        "imdb_rating": 8.1
+     },
+     {
+        "ocjena": 10,
+        "broj_filmova": 38,
+        "imdb_rating": 8.4
+     }
+]
